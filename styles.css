@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #e6ac00;
+    background-color: #e68a00;
     padding: 10px 30px;
     position: sticky;
     top: 0;
@@ -15,4 +15,9 @@ header {
 
 main {
     padding: 10px 30px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
 }
